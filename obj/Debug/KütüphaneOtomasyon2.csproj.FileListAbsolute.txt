@@ -1,0 +1,11 @@
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\bin\Debug\KütüphaneOtomasyon2.exe.config
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\bin\Debug\KütüphaneOtomasyon2.exe
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\bin\Debug\KütüphaneOtomasyon2.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon2.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon2.Form1.resources
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon2.Properties.Resources.resources
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon2.csproj.GenerateResource.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon2.exe
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon2.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\WindowsFormDersleri\WindowsFormlaraGiris\KütüphaneOtomasyon2\obj\Debug\KütüphaneOtomasyon2.AdminSayfasi.resources
